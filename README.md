@@ -17,10 +17,10 @@ oss.
     |----------+----------------+------------|
     | Verb     | Nuvarande bruk | Förslag    |
     |----------+----------------+------------|
-    | pull     | pulla          | dra        |
-    | push     | pusha          | trycka     |
-    | branch   | brancha        | avgrena    |
-    | commit   | commita        | fästa      |
+    | pull     | pulla          | rycka      |
+    | push     | pusha          | knuffa     |
+    | branch   | brancha        | förgrena   |
+    | commit   | commita        | förbinda   |
     | rebase   | rebasa         | ombasera   |
     | merge    | merga          | sammanfoga |
     | stash    | stasha         | gömma      |
@@ -30,15 +30,15 @@ oss.
     | Substantiv   | Nuvarande bruk | Förslag     |
     |--------------+----------------+-------------|
     | branch       | branch         | gren        |
-    | commit       | commit         | befästning  |
-    | pull request | pull request   | dragbegäran |
+    | commit       | commit         | förbindelse |
+    | pull request | pull request   | ryckbegäran |
     | stash        | stash          | gömma       |
     |--------------+----------------+-------------|
 
 ## Exempel
 
-    - Kan du dra grenen jag just ombaserade och tryckte till github?
+    - Kan du rycka grenen jag just ombaserade och knuffa till github?
 
-    - Jag avgrenade alldeles nyss och fäste ändringarna från min gömma där.
+    - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
-    - Skicka en dragbegäran när du är med sammanfogningen!
+    - Skicka en ryckbegäran när du är med sammanfogningen!
