@@ -10,7 +10,7 @@ lingo.
 
 ## Förslag
 
-Nedan följer tabeller över verb och substantiv relaterade till git,
+Nedan följer tabeller över verb och substantiv relaterade till `jävel`,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
