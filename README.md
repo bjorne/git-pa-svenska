@@ -14,27 +14,28 @@ Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-Verb     | Nuvarande bruk | Förslag      |
--------- | -------------- | -------------|
-pull     | pulla          | hämta        |
-push     | pusha          | skicka       |
-branch   | brancha        | förgrena     |
-commit   | commita        | kommitta     |
-rebase   | rebasa         | lägga om     |
-merge    | merga          | föra samman  |
-stash    | stasha         | lägga undan  |
+Verb     | Nuvarande bruk | Förslag       |
+-------- | -------------- | ------------- |
+pull     | pulla          | hämta hem     |
+push     | pusha          | skicka upp    |
+branch   | brancha        | avgrena från  |
+commit   | commita        | kommitta till |
+rebase   | rebasa         | lägga om      |
+merge    | merga          | föra samman   |
+stash    | stasha         | lägga undan   |
 
-Substantiv   | Nuvarande bruk | Förslag          |
------------- | -------------- | -----------------|
-branch       | branch         | gren, förgrening |
-commit       | commit         | kommitt          |
-pull request | pull request   | hämtning         |
-stash        | stash          | undanlagt        |
+Substantiv   | Nuvarande bruk | Förslag           |
+------------ | -------------- | ----------------- |
+repository   | repo           | repo              |
+branch       | branch         | gren, förgrening  |
+commit       | commit         | kommitt           |
+pull request | pull request   | önskad hämtan     |
+stash        | stash          | undanlagt         |
 
 ## Exempel
 
-    - Kan du dra grenen jag just ombaserade och tryckte till github?
+- Kan du hämta grenen jag just la om och skicka upp den till github?
 
-    - Jag avgrenade alldeles nyss och fäste ändringarna från min gömma där.
+- Jag avgrenade och kommittade mina undanlagda ändringar till mitt lokala repo.
 
-    - Skicka en dragbegäran när du är med sammanfogningen!
+- Uppdaterade du inte din önskade hämtan när du blev klar med sammanförandet av förgreningarna?
