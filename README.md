@@ -17,28 +17,28 @@ oss.
     |----------+----------------+------------|
     | Verb     | Nuvarande bruk | Förslag    |
     |----------+----------------+------------|
-    | pull     | pulla          | dra        |
-    | push     | pusha          | trycka     |
-    | branch   | brancha        | avgrena    |
-    | commit   | commita        | fästa      |
-    | rebase   | rebasa         | ombasera   |
-    | merge    | merga          | sammanfoga |
-    | stash    | stasha         | gömma      |
+    | pull     | pulla          | smurfa     |
+    | push     | pusha          | smurfa     |
+    | branch   | brancha        | smurfa     |
+    | commit   | commita        | smurfa     |
+    | rebase   | rebasa         | omsmurfa   |
+    | merge    | merga          | smurfa     |
+    | stash    | stasha         | smurfa     |
     |----------+----------------+------------|
 
     |--------------+----------------+-------------|
     | Substantiv   | Nuvarande bruk | Förslag     |
     |--------------+----------------+-------------|
-    | branch       | branch         | gren        |
-    | commit       | commit         | befästning  |
-    | pull request | pull request   | dragbegäran |
-    | stash        | stash          | gömma       |
+    | branch       | branch         | smurf       |
+    | commit       | commit         | smurf       |
+    | pull request | pull request   | smurfbegäran|
+    | stash        | stash          | smurf       |
     |--------------+----------------+-------------|
 
 ## Exempel
 
-    - Kan du dra grenen jag just ombaserade och tryckte till github?
+    - Kan du smurfa smurfen jag just omsmurfade och smurfade till github?
 
-    - Jag avgrenade alldeles nyss och fäste ändringarna från min gömma där.
+    - Jag smurfade alldeles nyss och smurfade ändringarna från min smurf där.
 
-    - Skicka en dragbegäran när du är med sammanfogningen!
+    - Smurfa en smurfbegäran när du är med smurfningen!
