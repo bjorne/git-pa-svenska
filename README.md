@@ -17,8 +17,8 @@ oss.
     |----------+----------------+------------|
     | Verb     | Nuvarande bruk | Förslag    |
     |----------+----------------+------------|
-    | pull     | pulla          | dra        |
-    | push     | pusha          | trycka     |
+    | pull     | pulla          | hämta      |
+    | push     | pusha          | skicka     |
     | branch   | brancha        | avgrena    |
     | commit   | commita        | fästa      |
     | rebase   | rebasa         | ombasera   |
@@ -31,14 +31,14 @@ oss.
     |--------------+----------------+-------------|
     | branch       | branch         | gren        |
     | commit       | commit         | befästning  |
-    | pull request | pull request   | dragbegäran |
+    | pull request | pull request   | hämtbegäran |
     | stash        | stash          | gömma       |
     |--------------+----------------+-------------|
 
 ## Exempel
 
-    - Kan du dra grenen jag just ombaserade och tryckte till github?
+    - Kan du hämta grenen jag just ombaserade och skickade till github?
 
     - Jag avgrenade alldeles nyss och fäste ändringarna från min gömma där.
 
-    - Skicka en dragbegäran när du är med sammanfogningen!
+    - Skicka en hämtbegäran när du är med sammanfogningen!
