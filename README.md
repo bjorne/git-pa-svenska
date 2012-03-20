@@ -14,26 +14,22 @@ Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-    |----------+----------------+------------|
-    | Verb     | Nuvarande bruk | Förslag    |
-    |----------+----------------+------------|
-    | pull     | pulla          | dra        |
-    | push     | pusha          | trycka     |
-    | branch   | brancha        | avgrena    |
-    | commit   | commita        | fästa      |
-    | rebase   | rebasa         | ombasera   |
-    | merge    | merga          | sammanfoga |
-    | stash    | stasha         | gömma      |
-    |----------+----------------+------------|
+Verb     | Nuvarande bruk | Förslag      |
+-------- | -------------- | -------------|
+pull     | pulla          | hämta        |
+push     | pusha          | skicka       |
+branch   | brancha        | förgrena     |
+commit   | commita        | kommitta     |
+rebase   | rebasa         | lägga om     |
+merge    | merga          | föra samman  |
+stash    | stasha         | lägga undan  |
 
-    |--------------+----------------+-------------|
-    | Substantiv   | Nuvarande bruk | Förslag     |
-    |--------------+----------------+-------------|
-    | branch       | branch         | gren        |
-    | commit       | commit         | befästning  |
-    | pull request | pull request   | dragbegäran |
-    | stash        | stash          | gömma       |
-    |--------------+----------------+-------------|
+Substantiv   | Nuvarande bruk | Förslag          |
+------------ | -------------- | -----------------|
+branch       | branch         | gren, förgrening |
+commit       | commit         | kommitt          |
+pull request | pull request   | hämtning         |
+stash        | stash          | undanlagt        |
 
 ## Exempel
 
