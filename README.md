@@ -24,6 +24,7 @@ oss.
     | rebase   | rebasa         | ombasera   |
     | merge    | merga          | sammanfoga |
     | stash    | stasha         | gömma      |
+    | tag      | tagga          | märka      |
     |----------+----------------+------------|
 
     |--------------+----------------+-------------|
@@ -33,6 +34,7 @@ oss.
     | commit       | commit         | befästning  |
     | pull request | pull request   | dragbegäran |
     | stash        | stash          | gömma       |
+    | tag          | tagg           | märke       |
     |--------------+----------------+-------------|
 
 ## Exempel
