@@ -43,4 +43,4 @@ oss.
 
     - Jag avgrenade alldeles nyss och fäste ändringarna från min gömma där.
 
-    - Skicka en dragbegäran när du är med sammanfogningen!
+    - Skicka en dragbegäran när du är klar med sammanfogningen!
