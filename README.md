@@ -44,3 +44,23 @@ oss.
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
+
+## Dagligt bruk
+
+Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
+gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
+(överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
+kommandon ändrar din ~/.gitconfig och kommer att verka globalt.
+
+    git config --global alias.ryck pull
+    git config --global alias.knuffa push
+    git config --global alias.gren branch
+    git config --global alias.forgrena branch
+    git config --global alias.forbinda commit
+    git config --global alias.ombasera rebase
+    git config --global alias.sammanfoga merge
+    git config --global alias.gom stash
+    git config --global alias.marke tag
+    git config --global alias.mark tag
+
+    alias idiot=git
