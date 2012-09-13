@@ -43,4 +43,4 @@ oss.
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
-    - Skicka en ryckbegäran när du är med sammanfogningen!
+    - Skicka en ryckbegäran när du är färdig med sammanfogningen!
