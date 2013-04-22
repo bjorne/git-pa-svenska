@@ -5,8 +5,10 @@
 Det dagliga språket för de olika kommadona i `git` är på svenska ett
 enda stort svengelskakalas. Jag finner mig själv ofta sägandes _"Kan
 du pusha branchen?"_ eller _"Jag pullar!"_, vilket känns pinsamt.
-Detta dokument föreslår hur riktig svenska kan användas som alternativ
-lingo.
+
+Detta dokument ämnar etablera en ren svensk jargong som kan användas
+på arbetsplatsen för att med fördel undvika pressade situationer med
+kollegor samt boskap.
 
 ## Förslag
 
