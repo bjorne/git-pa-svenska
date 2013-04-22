@@ -18,7 +18,7 @@ oss.
     | Verb     | Nuvarande bruk | Förslag    |
     |----------+----------------+------------|
     | pull     | pulla          | rycka      |
-    | push     | pusha          | knuffa     |
+    | push     | pusha          | trycka     |
     | branch   | brancha        | förgrena   |
     | commit   | commita        | förbinda   |
     | rebase   | rebasa         | ombasera   |
