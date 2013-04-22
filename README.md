@@ -2,9 +2,10 @@
 
 ## Introduktion
 
-Det dagliga språket för de olika kommadona i `git` är på svenska ett
-enda stort svengelskakalas. Jag finner mig själv ofta sägandes _"Kan
-du pusha branchen?"_ eller _"Jag pullar!"_, vilket känns pinsamt.
+Det dagliga språket för de olika kommadona i `git` (eller `jävel`) är
+på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
+sägandes _"Kan du pusha branchen?"_ eller _"Jag pullar!"_, vilket
+känns pinsamt.
 
 Detta dokument ämnar etablera en ren svensk jargong som kan användas
 på arbetsplatsen för att med fördel undvika pressade situationer med
@@ -33,6 +34,7 @@ oss.
     |--------------+----------------+-------------|
     | Substantiv   | Nuvarande bruk | Förslag     |
     |--------------+----------------+-------------|
+    | git          | git            | jävel       |
     | branch       | branch         | gren        |
     | commit       | commit         | förbindelse |
     | pull request | pull request   | ryckbegäran |
