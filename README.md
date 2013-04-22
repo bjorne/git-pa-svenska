@@ -17,31 +17,27 @@ Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-    |----------+----------------+------------|
-    | Verb     | Nuvarande bruk | Förslag    |
-    |----------+----------------+------------|
-    | pull     | pulla          | rycka      |
-    | push     | pusha          | knuffa     |
-    | fetch    | fetcha         | hämta      |
-    | branch   | brancha        | förgrena   |
-    | commit   | commita        | förbinda   |
-    | rebase   | rebasa         | ombasera   |
-    | merge    | merga          | sammanfoga |
-    | stash    | stasha         | gömma      |
-    | tag      | tagga          | märka      |
-    |----------+----------------+------------|
+| Verb     | Nuvarande bruk | Förslag    |
+|----------|----------------|------------|
+| pull     | pulla          | rycka      |
+| push     | pusha          | knuffa     |
+| fetch    | fetcha         | hämta      |
+| branch   | brancha        | förgrena   |
+| commit   | commita        | förbinda   |
+| rebase   | rebasa         | ombasera   |
+| merge    | merga          | sammanfoga |
+| stash    | stasha         | gömma      |
+| tag      | tagga          | märka      |
 
-    |--------------+----------------+-------------|
-    | Substantiv   | Nuvarande bruk | Förslag     |
-    |--------------+----------------+-------------|
-    | git          | git            | jävel       |
-    | repository   | repo           | förvaring   |
-    | branch       | branch         | gren        |
-    | commit       | commit         | förbindelse |
-    | pull request | pull request   | ryckbegäran |
-    | stash        | stash          | gömma       |
-    | tag          | tagg           | märke       |
-    |--------------+----------------+-------------|
+| Substantiv   | Nuvarande bruk | Förslag     |
+|--------------|----------------|-------------|
+| git          | git            | jävel       |
+| repository   | repo           | förvaring   |
+| branch       | branch         | gren        |
+| commit       | commit         | förbindelse |
+| pull request | pull request   | ryckbegäran |
+| stash        | stash          | gömma       |
+| tag          | tagg           | märke       |
 
 ## Exempel
 
