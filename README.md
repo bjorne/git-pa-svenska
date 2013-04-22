@@ -21,6 +21,7 @@ oss.
     |----------+----------------+------------|
     | pull     | pulla          | rycka      |
     | push     | pusha          | knuffa     |
+    | fetch    | fetcha         | hämta      |
     | branch   | brancha        | förgrena   |
     | commit   | commita        | förbinda   |
     | rebase   | rebasa         | ombasera   |
