@@ -35,6 +35,7 @@ oss.
     | Substantiv   | Nuvarande bruk | Förslag     |
     |--------------+----------------+-------------|
     | git          | git            | jävel       |
+    | repository   | repo           | förvaring   |
     | branch       | branch         | gren        |
     | commit       | commit         | förbindelse |
     | pull request | pull request   | ryckbegäran |
