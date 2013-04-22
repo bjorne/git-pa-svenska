@@ -17,17 +17,18 @@ Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-| Verb     | Nuvarande bruk | Förslag    |
-|----------|----------------|------------|
-| pull     | pulla          | rycka      |
-| push     | pusha          | knuffa     |
-| fetch    | fetcha         | hämta      |
-| branch   | brancha        | förgrena   |
-| commit   | commita        | förbinda   |
-| rebase   | rebasa         | ombasera   |
-| merge    | merga          | sammanfoga |
-| stash    | stasha         | gömma      |
-| tag      | tagga          | märka      |
+| Verb        | Nuvarande bruk | Förslag       |
+|-------------|----------------|---------------|
+| pull        | pulla          | rycka         |
+| push        | pusha          | knuffa        |
+| fetch       | fetcha         | hämta         |
+| branch      | brancha        | förgrena      |
+| commit      | commita        | förbinda      |
+| rebase      | rebasa         | ombasera      |
+| merge       | merga          | sammanfoga    |
+| stash       | stasha         | gömma         |
+| tag         | tagga          | märka         |
+| cherry-pick | cherry-picka   | plocka russin |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -46,6 +47,8 @@ oss.
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
+
+    - Låt oss plocka russin från mäster-grenen.
 
 ## Dagligt bruk
 
