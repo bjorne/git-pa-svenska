@@ -1,8 +1,8 @@
-# Git på svenska
+# Jävel på svenska
 
 ## Introduktion
 
-Det dagliga språket för de olika kommadona i `git` är på svenska ett
+Det dagliga språket för de olika kommadona i `jävel` (Engelska: `git`) är på svenska ett
 enda stort svengelskakalas. Jag finner mig själv ofta sägandes _"Kan
 du pusha branchen?"_ eller _"Jag pullar!"_, vilket känns pinsamt.
 
@@ -12,7 +12,7 @@ kollegor samt boskap.
 
 ## Förslag
 
-Nedan följer tabeller över verb och substantiv relaterade till git,
+Nedan följer tabeller över verb och substantiv relaterade till `jävel`,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
