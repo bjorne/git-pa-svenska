@@ -30,15 +30,15 @@ oss.
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 
-| Substantiv   | Nuvarande bruk | Förslag     |
-|--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+| Substantiv   | Nuvarande bruk | Förslag        |
+|--------------|----------------|----------------|
+| git          | git            | jävel          |
+| repository   | repo           | förvaring      |
+| branch       | branch         | gren           |
+| commit       | commit         | förbindelse    |
+| pull request | pull request   | ryckförfrågan  |
+| stash        | stash          | gömma          |
+| tag          | tagg           | märke          |
 
 ## Exempel
 
@@ -46,7 +46,7 @@ oss.
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
-    - Skicka en ryckbegäran när du är färdig med sammanfogningen!
+    - Skicka en ryckförfrågan när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
 
@@ -54,7 +54,7 @@ oss.
 
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
 gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
-(överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
+(överväg att förbättra mjukvaran och skicka en ryckförfrågan!). Följande
 kommandon ändrar din ~/.gitconfig och kommer att verka globalt.
 
     git config --global alias.ryck pull
