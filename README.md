@@ -2,7 +2,7 @@
 
 ## Introduktion
 
-Det dagliga språket för de olika kommadona i `git` (eller `jävel`) är
+Det dagliga språket för de olika kommandona i `git` (eller `jävel`) är
 på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
 sägandes _"Kan du pusha branchen?"_ eller _"Jag pullar!"_, vilket
 känns pinsamt.
