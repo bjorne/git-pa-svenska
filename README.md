@@ -55,7 +55,7 @@ oss.
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
 gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
 (överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
-kommandon ändrar din ~/.gitconfig och kommer att verka globalt.
+kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
 
     git config --global alias.ryck pull
     git config --global alias.knuffa push
