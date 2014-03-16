@@ -68,4 +68,4 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.marke tag
     git config --global alias.mark tag
 
-    alias idiot=git
+    alias jävel=git
