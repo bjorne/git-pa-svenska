@@ -34,6 +34,7 @@ oss.
 |--------------|----------------|-------------|
 | git          | git            | jävel       |
 | repository   | repo           | förvaring   |
+| remote       | remote         | avlägsen    |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
 | pull request | pull request   | ryckbegäran |
@@ -49,6 +50,8 @@ oss.
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
+    
+    - Jag trycker till en avlägsen gren.
 
 ## Dagligt bruk
 
@@ -65,6 +68,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.ombasera rebase
     git config --global alias.sammanfoga merge
     git config --global alias.gom stash
+    git config --global alias.avlagsen remote
     git config --global alias.marke tag
     git config --global alias.mark tag
 
