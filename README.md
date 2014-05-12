@@ -29,6 +29,7 @@ oss.
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
+| amend       | amenda         | rätta till    |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
