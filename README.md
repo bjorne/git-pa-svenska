@@ -24,7 +24,7 @@ oss.
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
 | commit      | commita        | förbinda      |
-| rebase      | rebasa         | ombasera      |
+| rebase      | rebasa         | ympa          |
 | merge       | merga          | sammanfoga    |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
@@ -42,7 +42,7 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ombaserade och trycka till github?
+    - Kan du rycka grenen jag just ympade och trycka till github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
@@ -62,7 +62,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.gren branch
     git config --global alias.forgrena branch
     git config --global alias.forbinda commit
-    git config --global alias.ombasera rebase
+    git config --global alias.ympa rebase
     git config --global alias.sammanfoga merge
     git config --global alias.gom stash
     git config --global alias.marke tag
