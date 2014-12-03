@@ -28,6 +28,9 @@ oss.
 | merge       | merga          | sammanfoga    |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
+| clone       | clona          | klona         |
+| checkout    | checka ut      | kika          |
+| add         | adda           | lägga till    |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 
@@ -68,5 +71,8 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.gom stash
     git config --global alias.marke tag
     git config --global alias.mark tag
+	git config --global alias.klona clone
+	git config --global alias.kika checkout
+	git config --global alias.tillagg add
 
     alias jävel=git
