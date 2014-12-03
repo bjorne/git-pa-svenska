@@ -37,7 +37,7 @@ oss.
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
 | git          | git            | jävel       |
-| repository   | repo           | förvaring   |
+| repository   | repo           | valv        |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
 | pull request | pull request   | ryckbegäran |
@@ -46,13 +46,13 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och trycka till github?
+    - Kan du rycka grenen jag just ympade och trycka till fjärrvalvet på github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+	- Låt oss plocka russin från mäster-grenen.
 
 ## Dagligt bruk
 
