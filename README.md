@@ -26,7 +26,7 @@ oss.
 | commit      | commita        | förbinda      |
 | rebase      | rebasa         | ympa          |
 | merge       | merga          | sammanfoga    |
-| stash       | stasha         | gömma         |
+| stash       | stasha         | förvara       |
 | tag         | tagga          | märka         |
 | clone       | clona          | klona         |
 | checkout    | checka ut      | kika          |
@@ -68,7 +68,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.forbinda commit
     git config --global alias.ympa rebase
     git config --global alias.sammanfoga merge
-    git config --global alias.gom stash
+    git config --global alias.forvara stash
     git config --global alias.marke tag
     git config --global alias.mark tag
 	git config --global alias.klona clone
