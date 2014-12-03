@@ -52,7 +52,7 @@ oss.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-	- Låt oss plocka russin från mäster-grenen.
+    - Låt oss plocka russin från mäster-grenen.
 
 ## Dagligt bruk
 
@@ -71,8 +71,8 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.forvara stash
     git config --global alias.marke tag
     git config --global alias.mark tag
-	git config --global alias.klona clone
-	git config --global alias.kika checkout
-	git config --global alias.tillagg add
+    git config --global alias.klona clone
+    git config --global alias.kika checkout
+    git config --global alias.tillagg add
 
     alias jävel=git
