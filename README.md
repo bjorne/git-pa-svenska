@@ -26,15 +26,18 @@ oss.
 | commit      | commita        | förbinda      |
 | rebase      | rebasa         | ympa          |
 | merge       | merga          | sammanfoga    |
-| stash       | stasha         | gömma         |
+| stash       | stasha         | förvara       |
 | tag         | tagga          | märka         |
+| clone       | clona          | klona         |
+| checkout    | checka ut      | kika          |
+| add         | adda           | lägga till    |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
 | git          | git            | jävel       |
-| repository   | repo           | förvaring   |
+| repository   | repo           | valv        |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
 | pull request | pull request   | ryckbegäran |
@@ -43,7 +46,7 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och trycka till github?
+    - Kan du rycka grenen jag just ympade och trycka till fjärrvalvet på github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
@@ -65,8 +68,11 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.forbinda commit
     git config --global alias.ympa rebase
     git config --global alias.sammanfoga merge
-    git config --global alias.gom stash
+    git config --global alias.forvara stash
     git config --global alias.marke tag
     git config --global alias.mark tag
+    git config --global alias.klona clone
+    git config --global alias.kika checkout
+    git config --global alias.tillagg add
 
     alias jävel=git
