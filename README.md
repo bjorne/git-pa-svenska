@@ -67,6 +67,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.ympa rebase
     git config --global alias.sammanfoga merge
     git config --global alias.gom stash
+    git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
 
