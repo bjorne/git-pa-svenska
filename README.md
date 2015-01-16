@@ -26,6 +26,7 @@ oss.
 | commit      | commita        | förbinda      |
 | rebase      | rebasa         | ombasera      |
 | merge       | merga          | sammanfoga    |
+| squash      | squasha        | mosa          |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
@@ -49,6 +50,8 @@ oss.
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
+
+    - Mosa dina förbindelser innan du sammanfogar.
 
 ## Dagligt bruk
 
