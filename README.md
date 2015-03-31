@@ -19,7 +19,7 @@ oss.
 
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
+| pull        | pulla          | dra           |
 | push        | pusha          | trycka        |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
@@ -37,17 +37,17 @@ oss.
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
+| pull request | pull request   | dragbegäran |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och trycka till github?
+    - Kan du dra grenen jag just ympade och trycka till github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
-    - Skicka en ryckbegäran när du är färdig med sammanfogningen!
+    - Skicka en dragbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
 
@@ -55,10 +55,10 @@ oss.
 
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
 gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
-(överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
+(överväg att förbättra mjukvaran och skicka en dragbegäran!). Följande
 kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
 
-    git config --global alias.ryck pull
+    git config --global alias.dra pull
     git config --global alias.tryck push
     git config --global alias.gren branch
     git config --global alias.forgrena branch
