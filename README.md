@@ -30,6 +30,7 @@ oss.
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
+| squash      | squasha        | klämma ihop   |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -50,6 +51,8 @@ oss.
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
+    
+    - Kläm ihop förbindelserna och ympa på mästergrenen så att vi kan sammanfoga.
 
 ## Dagligt bruk
 
