@@ -28,7 +28,7 @@ oss.
 | merge       | merga          | sammanfoga    |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
-| cherry-pick | cherry-picka   | plocka russin |
+| cherry-pick | cherry-picka   | handplocka    |
 | amend       | amenda         | rätta till    |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
@@ -49,7 +49,7 @@ oss.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+    - Låt oss handplocka från mäster-grenen.
 
 ## Dagligt bruk
 
