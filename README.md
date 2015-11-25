@@ -20,7 +20,7 @@ oss.
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
 | pull        | pulla          | rycka         |
-| push        | pusha          | trycka        |
+| push        | pusha          | knuffa        |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
 | commit      | commita        | förbinda      |
@@ -43,13 +43,15 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och trycka till github?
+    - Kan du rycka grenen jag just ympade och knuffa till github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
+    
+    - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
 
 ## Dagligt bruk
 
@@ -59,7 +61,7 @@ gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
 kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
 
     git config --global alias.ryck pull
-    git config --global alias.tryck push
+    git config --global alias.knuffa push
     git config --global alias.gren branch
     git config --global alias.forgrena branch
     git config --global alias.forbinda commit
