@@ -49,7 +49,7 @@ oss.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+    - Låt oss plocka russin från huvudgrenen.
 
 ## Dagligt bruk
 
