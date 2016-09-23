@@ -57,23 +57,12 @@ oss.
 
     - Mosa dina förbindelser innan du sammanfogar.
 
-## Dagligt bruk
+## Installation
 
-Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
-gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
-(överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
-kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
+Installera svenska kommandon genom att laddad ner och kör:
 
-    git config --global alias.ryck pull
-    git config --global alias.knuffa push
-    git config --global alias.gren branch
-    git config --global alias.forgrena branch
-    git config --global alias.forbinda commit
-    git config --global alias.ympa rebase
-    git config --global alias.sammanfoga merge
-    git config --global alias.gom stash
-    git config --global alias.klandra blame
-    git config --global alias.marke tag
-    git config --global alias.mark tag
+```
+bash install.sh
+```
 
-    alias jävel=git
+
