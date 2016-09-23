@@ -21,27 +21,27 @@ oss.
 |-------------|----------------|---------------|
 | pull        | pulla          | rycka         |
 | push        | pusha          | knuffa        |
-| fetch       | fetcha         | hämta         |
-| branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
+| fetch       | fetcha         | apportera     |
+| branch      | brancha        | grena         |
+| commit      | commita        | remittera     |
 | rebase      | rebasa         | ympa          |
 | merge       | merga          | sammanfoga    |
 | squash      | squasha        | mosa          |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
+| stash       | stasha         | stoppa undan  |
+| tag         | tagga          | lappa         |
 | cherry-pick | cherry-picka   | plocka russin |
-| amend       | amenda         | rätta till    |
+| amend       | amenda         | fixa          |
 | blame       | blamea         | klandra       |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
-| git          | git            | jävel       |
+| git          | git            | git         |
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
+| commit       | commit         | remmitering |
 | pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+| stash        | stash          | gömställe   |
+| tag          | tagg           | lapp        |
 
 ## Exempel
 
