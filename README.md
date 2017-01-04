@@ -19,8 +19,8 @@ oss.
 
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | knuffa        |
+| pull        | pulla          | dra           |
+| push        | pusha          | tryck         |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
 | commit      | commita        | förbinda      |
@@ -39,7 +39,7 @@ oss.
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
+| pull request | pull request   | drabegäran  |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
 
