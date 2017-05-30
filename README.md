@@ -32,6 +32,7 @@ oss.
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 | blame       | blamea         | klandra       |
+| check out   | checka ut      | välja         |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -75,5 +76,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
+    git config --global alias.valj checkout
+    git config --global alias.velj checkout
 
     alias jävel=git
