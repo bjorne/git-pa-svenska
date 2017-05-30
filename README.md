@@ -52,7 +52,7 @@ oss.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+    - Låt oss välja utvecklingsgrenen och plocka russin från mäster-grenen.
     
     - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
 
