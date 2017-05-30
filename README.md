@@ -32,6 +32,7 @@ oss.
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 | blame       | blamea         | klandra       |
+| check out   | checka ut      | välja         |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -51,7 +52,7 @@ oss.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+    - Låt oss välja utvecklingsgrenen och plocka russin från mäster-grenen.
     
     - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
 
@@ -75,5 +76,7 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
+    git config --global alias.valj checkout
+    git config --global alias.velj checkout
 
     alias jävel=git
