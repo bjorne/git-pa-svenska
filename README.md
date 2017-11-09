@@ -20,17 +20,19 @@ oss.
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
 | pull        | pulla          | rycka         |
-| push        | pusha          | trycka        |
+| push        | pusha          | knuffa        |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
 | commit      | commita        | förbinda      |
 | rebase      | rebasa         | ympa          |
 | merge       | merga          | sammanfoga    |
+| squash      | squasha        | mosa          |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 | fork        | forka          | gaffla        |
+| blame       | blamea         | klandra       |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -45,13 +47,17 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och trycka till github?
+    - Kan du rycka grenen jag just ympade och knuffa till github?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
     - Låt oss plocka russin från mäster-grenen.
+    
+    - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
+
+    - Mosa dina förbindelser innan du sammanfogar.
 
 ## Dagligt bruk
 
@@ -61,13 +67,14 @@ gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
 kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
 
     git config --global alias.ryck pull
-    git config --global alias.tryck push
+    git config --global alias.knuffa push
     git config --global alias.gren branch
     git config --global alias.forgrena branch
     git config --global alias.forbinda commit
     git config --global alias.ympa rebase
     git config --global alias.sammanfoga merge
     git config --global alias.gom stash
+    git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
 
