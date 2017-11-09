@@ -30,6 +30,7 @@ oss.
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
+| fork        | forka          | gaffla        |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -40,6 +41,7 @@ oss.
 | pull request | pull request   | ryckbegäran |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
+| fork         | fork           | gaffel      |
 
 ## Exempel
 
