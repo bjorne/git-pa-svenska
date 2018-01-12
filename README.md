@@ -36,6 +36,7 @@ oss.
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
 | git          | git            | jävel       |
+| github       | github         | jävelsnavet |
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
@@ -45,7 +46,7 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och knuffa till github?
+    - Kan du rycka grenen jag just ympade och knuffa till jävelsnavet?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
