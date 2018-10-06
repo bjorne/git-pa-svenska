@@ -6,7 +6,6 @@ SV3="${SV2//ö/o}"
 REST="${@:2}"
 if [ -z "$REST" ] ; then
 	git $SV3
-	
 else
 	git $SV3 "$REST"
 fi
