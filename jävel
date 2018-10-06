@@ -1,0 +1,8 @@
+#!/bin/bash
+SV="$1"
+SV1="${SV//å/a}"
+SV2="${SV1//ä/a}"
+SV3="${SV2//ö/o}"
+REST="${@:2}"
+
+git $SV3 $REST
