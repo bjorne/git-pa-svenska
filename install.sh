@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 git config --global alias.drag pull
-git config --global alias.ryck pull --rebase
+git config --global alias.ryck 'pull --rebase'
 git config --global alias.plus add
-git config --global alias.minus reset -q
-git config --global alias.ta reset -q
+git config --global alias.minus 'reset -q'
+git config --global alias.ta 'reset -q'
 git config --global alias.ge add
-git config --global alias.allt add .
-git config --global alias.lappa add -p
+git config --global alias.allt 'add .'
+git config --global alias.lappa 'add -p'
 git config --global alias.knuffa push
 git config --global alias.tryck push
 git config --global alias.forgrena branch
@@ -26,7 +26,7 @@ git config --global alias.sno stash
 git config --global alias.lapp tag
 git config --global alias.mark tag
 git config --global alias.plocka-russin cherry-pick
-git config --global alias.fixa amend
+git config --global alias.fixa 'commit --amend'
 git config --global alias.klandra blame
 git config --global alias.apportera fetch
 git config --global alias.hamta fetch
@@ -34,4 +34,4 @@ git config --global alias.visa status
 git config --global alias.skillnad diff
 git config --global alias.utforska checkout
 git config --global alias.aterstall checkout
-git config --global alias.forinta reset --hard
+git config --global alias.forinta 'reset --hard'
