@@ -65,4 +65,8 @@ Installera svenska kommandon genom att laddad ner och kör:
 bash install.sh
 ```
 
+## Användning
+
+Använd ``jävel`` istället för ``git`` för att kunna skriva åäö
+
 
