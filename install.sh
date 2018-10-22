@@ -15,13 +15,14 @@ git config --global alias.gren branch
 git config --global alias.bega commit
 git config --global alias.forbind commit
 git config --global alias.anstifta commit
+git config --global alias.vax commit
 git config --global alias.ymmpa rebase
 git config --global alias.sammanfoga merge 
 git config --global alias.mosa squash 
 git config --global alias.stoppa-undan stash
 git config --global alias.forvara stash
 # Det som göms i snö kommer upp i tö
-git config --global alias.to stash pop 
+git config --global alias.to 'stash pop' 
 git config --global alias.sno stash
 git config --global alias.lapp tag
 git config --global alias.mark tag
