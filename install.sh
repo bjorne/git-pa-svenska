@@ -32,6 +32,7 @@ git config --global alias.apportera fetch
 git config --global alias.hamta fetch
 git config --global alias.visa status
 git config --global alias.skillnad diff
+git config --global alias.tillagt 'diff --staged'
 git config --global alias.utforska checkout
 git config --global alias.aterstall checkout
 git config --global alias.forinta 'reset --hard'
