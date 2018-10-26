@@ -42,10 +42,10 @@ oss.
 | pull request | pull request   | ryckbegäran |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
-
+| github       | github         | jävelsnäste |
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och knuffa till github?
+    - Kan du rycka grenen jag just ympade och knuffa till jävelsnästet?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
