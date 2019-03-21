@@ -45,7 +45,7 @@ oss.
 
 ## Exempel
 
-    - Kan du rycka grenen jag just ympade och knuffa till github?
+    - Kan du rycka grenen jag just ympade och knuffa till jävelsnavet?
 
     - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
 
@@ -60,7 +60,7 @@ oss.
 ## Dagligt bruk
 
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
-gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
+jävelmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i jävel
 (överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
 kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
 
