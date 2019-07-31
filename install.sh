@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+git config --global core.editor "vim"
 git config --global alias.drag pull
 git config --global alias.ryck 'pull --rebase'
 git config --global alias.plus add
@@ -28,6 +28,7 @@ git config --global alias.lapp tag
 git config --global alias.mark tag
 git config --global alias.plocka-russin cherry-pick
 git config --global alias.fixa 'commit --amend'
+git config --global alias.fixat 'commit --amend --no-edit'
 git config --global alias.klandra blame
 git config --global alias.apportera fetch
 git config --global alias.hamta fetch
@@ -37,3 +38,4 @@ git config --global alias.tillagt 'diff --staged'
 git config --global alias.utforska checkout
 git config --global alias.aterstall checkout
 git config --global alias.forinta 'reset --hard'
+git config --global alias.ll 'status .'
