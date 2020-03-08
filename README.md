@@ -23,15 +23,15 @@ oss.
 | push        | pusha          | knuffa        |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ympa          |
+| commit      | committa       | förbinda      |
+| rebase      | rebejsa        | ympa          |
 | merge       | merga          | sammanfoga    |
 | squash      | squasha        | mosa          |
 | stash       | stasha         | gömma         |
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| blame       | blejma         | klandra       |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
