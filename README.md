@@ -42,6 +42,7 @@ oss.
 | pull request | pull request   | ryckbegäran |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
+| diff         | diff           | skillnad    |
 
 ## Exempel
 
@@ -75,5 +76,6 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
+    git config --global alias.skillnad diff
 
     alias jävel=git
