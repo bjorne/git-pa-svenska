@@ -32,6 +32,7 @@ oss.
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
 | blame       | blamea         | klandra       |
+| bisect      | bisecta        | tudela        |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
@@ -57,6 +58,8 @@ oss.
 
     - Mosa dina förbindelser innan du sammanfogar.
 
+    - Vill du vara snäll och felsöka genom att genomföra en tudelning på mästar-grenen?
+
 ## Dagligt bruk
 
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
@@ -75,5 +78,6 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.klandra blame
     git config --global alias.marke tag
     git config --global alias.mark tag
+    git config --global alias.tudela bisect
 
     alias jävel=git
