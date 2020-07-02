@@ -2,7 +2,7 @@
 
 ## Introduktion
 
-Det dagliga språket för de olika kommandona i `git` (eller `jävel`) är
+Det dagliga språket för de olika kommandona i `git` (eller `fan`) är
 på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
 sägandes _"Kan du pusha branchen?"_ eller _"Jag pullar!"_, vilket
 känns pinsamt.
@@ -35,7 +35,7 @@ oss.
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
-| git          | git            | jävel       |
+| git          | git            | fan         |
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
@@ -76,4 +76,4 @@ kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
     git config --global alias.marke tag
     git config --global alias.mark tag
 
-    alias jävel=git
+    alias fan=git
