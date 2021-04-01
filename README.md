@@ -19,7 +19,7 @@ oss.
 
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
+| pull        | pulla          | dra           |
 | push        | pusha          | knuffa        |
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
@@ -31,7 +31,7 @@ oss.
 | tag         | tagga          | märka         |
 | cherry-pick | cherry-picka   | plocka russin |
 | amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| blame       | blama          | klandra       |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
